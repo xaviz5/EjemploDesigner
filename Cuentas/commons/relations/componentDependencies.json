@@ -1,6 +1,14 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CUENTAHAG_313": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+	},
+	"Queries": {
+	}
 }
